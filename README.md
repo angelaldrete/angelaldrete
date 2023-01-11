@@ -1,6 +1,6 @@
 ### Hi I'm Angel 👋
 
-- 🔭 I’m currently working on my videogame called Beyond World
-- 🌱 I’m currently learning Unreal Engine and AWS Cloud Computing
-- 👯 I’m looking to collaborate on open source projects
-- ⚡ Fun fact: I play musical instruments
+- 🔭 I’m currently working on my videogame called Awakened Memories
+- 🌱 I’m currently learning Unity 
+- 👯 I’m currently working as a React Developer
+- ⚡ Fun fact: I play musical instruments/Work on music productions
